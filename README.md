@@ -16,12 +16,11 @@
 
 全国会长：Lilliam小姐姐（XT4论坛版主）
 
-![LilliamLee](https://user-images.githubusercontent.com/12932086/70524711-b8e4fd00-1b80-11ea-811e-4938089f8f3c.png)
+![LilliamLee](https://user-images.githubusercontent.com/12932086/70526465-9e148780-1b84-11ea-8b88-f41ba81c7737.jpg)
 
 安徽分会：李大毛
 
-![lijiadashao](https://user-images.githubusercontent.com/12932086/70524562-63a8eb80-1b80-11ea-9ae3-e8237632928d.jpg)
-
+![lijiadashao](https://user-images.githubusercontent.com/12932086/70526464-9d7bf100-1b84-11ea-8fb8-54f3a670f47e.jpg)
 
 其它区域会长：待补充
 
