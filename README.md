@@ -3,12 +3,14 @@
 
 ## 手册资料
 
+- [XT4产品手册](https://github.com/alex102400/xt4/raw/master/cadillac/xt4%E4%BA%A7%E5%93%81%E6%89%8B%E5%86%8C.pdf)
 
-- [2019年款上汽通用凯迪拉克XT4保修保养手册.pdf](https://github.com/alex102400/xt4/blob/master/2019%E5%B9%B4%E6%AC%BE%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BXT4%E4%BF%9D%E4%BF%AE%E4%BF%9D%E5%85%BB%E6%89%8B%E5%86%8C.pdf)
+- [2019年款上汽通用凯迪拉克XT4保修保养手册.pdf](https://github.com/alex102400/xt4/raw/master/cadillac/2019%E5%B9%B4%E6%AC%BE%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BXT4%E4%BF%9D%E4%BF%AE%E4%BF%9D%E5%85%BB%E6%89%8B%E5%86%8C.pdf)
 
-- [2019年款上汽通用凯迪拉克XT4用户手册.pdf](https://github.com/alex102400/xt4/blob/master/2019%E5%B9%B4%E6%AC%BE%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BXT4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
+- [2019年款上汽通用凯迪拉克XT4用户手册.pdf](https://github.com/alex102400/xt4/raw/master/cadillac/2019%E5%B9%B4%E6%AC%BE%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BXT4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
 
-- [上汽通用凯迪拉克三包凭证.pdf](https://github.com/alex102400/xt4/blob/master/%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%E4%B8%89%E5%8C%85%E5%87%AD%E8%AF%81.pdf)
+- [上汽通用凯迪拉克三包凭证.pdf](https://github.com/alex102400/xt4/raw/master/cadillac/%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%E4%B8%89%E5%8C%85%E5%87%AD%E8%AF%81.pdf)
+
 
 
 ## 车友会微信群.XT4 Club
