@@ -11,7 +11,8 @@
 
 - [上汽通用凯迪拉克三包凭证.pdf](https://github.com/alex102400/xt4/blob/master/cadillac/%E4%B8%8A%E6%B1%BD%E9%80%9A%E7%94%A8%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8B%E4%B8%89%E5%8C%85%E5%87%AD%E8%AF%81.pdf)
 
-
+- [机动车环保信息随车清单*查询](http://info.vecc.org.cn/ve/vin/index)
+    
 
 ## 车友会微信群.XT4 Club
 > 仅招募真实车主，需审核行驶证，商家勿扰！
